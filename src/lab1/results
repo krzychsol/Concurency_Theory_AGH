@@ -1,0 +1,9 @@
+---- TEST 1 WITHOUT SYNCHORONIZED-----
+
+Final Count: -2103
+Elapsed time: 1.1272 seconds
+
+---- TEST 2 WITH SYNCHORONIZED-----
+
+Final Count: 0
+Elapsed time: 2.2169 seconds
